@@ -1,0 +1,11 @@
+name: crop_model
+channels:
+  - defaults
+dependencies:
+  - pillow
+  - scikit-learn
+  - pandas
+  - numpy
+  - jupyterlab
+  - matplotlib
+prefix: C:\Users\slmkc\.conda\envs\crop_model

@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+data/*
+!data/README.md
+models/*
+!models/README.md
