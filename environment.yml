@@ -8,4 +8,5 @@ dependencies:
   - numpy
   - jupyterlab
   - matplotlib
-prefix: C:\Users\slmkc\.conda\envs\crop_model
+  -python=3.11
+

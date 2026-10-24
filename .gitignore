@@ -4,3 +4,6 @@ data/*
 !data/README.md
 models/*
 !models/README.md
+kaggle.json
+*.zip
+.env
